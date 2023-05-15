@@ -6,7 +6,8 @@
 	<Local Expanded="Yes">
 		<Model Expanded="Yes" ID="{02F7E620-C653-41DE-B9E2-B6A046E01D44}" Loaded="No" Name="Banco_ORACLE" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="Banco_ORACLE.pdm"/>
 		<Model Expanded="Yes" ID="{CEE96CF7-054E-4DDC-B3E1-EB1D6EDA8C9A}" Loaded="No" Name="cine_colombia" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="../bd_cinecolombia/cine_colombia v1.3.0.pdm"/>
-		<Model ID="{02F7E620-C653-41DE-B9E2-B6A046E01D44}" Loaded="No" Name="Banco_ORACLE" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="Banco_ORACLE.pdm"/>
+		<Model Expanded="Yes" ID="{02F7E620-C653-41DE-B9E2-B6A046E01D44}" Loaded="No" Name="Banco_ORACLE" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="Banco_ORACLE.pdm"/>
+		<Model Expanded="Yes" ID="{C61E7AB1-0A0C-4180-BC13-78C1E94D0615}" Name="BD_CENTELSA" Selected="Yes" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="BD_CENTELSA.pdm"/>
 	</Local>
 	<BrowserModule Name="Repository"/>
 </Workspace>

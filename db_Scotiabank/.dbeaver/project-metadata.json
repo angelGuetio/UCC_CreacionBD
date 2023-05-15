@@ -1,0 +1,1 @@
+{"resources":{"Scripts/BD_Orcl_TransaccionPSE.sql":{"default-datasource":"oracle_thin-1881199c44b-18647ea55484794e","default-schema":"SCOTIA"},"Scripts/ORCL_create_scheme_user.sql":{"default-datasource":"oracle_thin-18811962223-4dde03e7806b7072","default-schema":"SYSTEM"}}}
